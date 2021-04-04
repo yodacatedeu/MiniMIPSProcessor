@@ -1,0 +1,27 @@
+-- 32 Bit 3-1 Muliplexer Component
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+ENTITY ThreeToOneMux IS
+	PORT (
+		in0  : IN std_logic_vector(31 DOWNTO 0);  -- first input
+		in1  : IN std_logic_vector(31 DOWNTO 0);  -- second input
+		in2  : IN std_logic_vector(31 DOWNTO 0);  -- second input
+		out0 : OUT std_logic_vector(31 DOWNTO 0);-- output
+		cSwitch : IN std_logic_vector(1 DOWNTO 0) -- switch
+	);
+END ThreeToOneMux;
+ARCHITECTURE Behavioral OF ThreeToOneMux IS
+BEGIN
+	--out0 <= in0 WHEN cSwitch = "00"; -- output = first input when switch = 0
+       -- out0 <= in1 WHEN cSwitch = "01"; -- output second input when switch = 1
+	--out0 <= in2 WHEN cSwitch = "10"; -- output = third input when switch = 2
+	if cSwitch = "00" then 
+		out0 <= in0;
+	elsif cSwitch = "01" then 
+		out0 <= in1;
+	else 
+		out0 <= in2;--if cSwitch = "10"; -- thenout0 <= in2;
+	end if;
+	           
+END Behavioral;
+

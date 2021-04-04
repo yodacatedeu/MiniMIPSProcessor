@@ -1,0 +1,17 @@
+-- Basically A wrapper for the Program Counter.  Due to it's importance, formally making it an entity.
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+ENTITY PROGRAM_COUNTER IS
+	PORT (
+		PC_In   : IN STD_LOGIC_VECTOR(31 DOWNTO 0);
+		PC_Out  : OUT STD_LOGIC_VECTOR(31 DOWNTO 0)
+	);
+END PROGRAM_COUNTER;
+ARCHITECTURE Behavioral OF PROGRAM_COUNTER IS
+BEGIN
+
+	PC_Out <= PC_In;
+
+END Behavioral;

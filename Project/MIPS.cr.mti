@@ -1,0 +1,224 @@
+{C:/Users/aronb/OneDrive/Com Architecture/Project/SignExtender.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/SignExtender.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SIGN_EXTENDER
+-- Compiling architecture Behavioral of SIGN_EXTENDER
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/MIPS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/MIPS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPS
+-- Compiling architecture Behavioral of MIPS
+-- Loading entity ControlUnit
+-- Loading entity INSTRUCTION_MEMORY
+-- Loading entity Data_Memory
+-- Loading entity ALU
+-- Loading entity alu_control
+-- Loading entity REGISTER_FILE
+-- Loading entity SIGN_EXTENDER
+-- Loading entity TwoToOneMux
+-- Loading entity Reg_Dest_Mux
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity IFToID
+-- Loading entity IDToEX
+-- Loading entity EXToMEM
+-- Loading entity MEMToWB
+-- Loading entity PROGRAM_COUNTER
+-- Loading entity PC_ADDER
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/HazardDetectionUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/HazardDetectionUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HazardDetectionUnit
+-- Compiling architecture Behavioral of HazardDetectionUnit
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ControlUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ControlUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ControlUnit
+-- Compiling architecture Behavioral of ControlUnit
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/DataMem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/DataMem.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Data_Memory
+-- Compiling architecture Behavioral of Data_Memory
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/PCAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/PCAdder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PC_ADDER
+-- Compiling architecture Behavioral of PC_ADDER
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ALUControl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ALUControl.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_control
+-- Compiling architecture Behavioral of alu_control
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/Multiplexer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/Multiplexer.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TwoToOneMux
+-- Compiling architecture Behavioral of TwoToOneMux
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ShiftLeft2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ShiftLeft2.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft
+-- Compiling architecture Behavioral of ShiftLeft
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/Reg_Dest_Mux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/Reg_Dest_Mux.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Reg_Dest_Mux
+-- Compiling architecture Behavioral of Reg_Dest_Mux
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/DataPath.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/DataPath.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error (suppressible): C:/Users/aronb/OneDrive/Com Architecture/Project/DataPath.vhd(232): (vcom-1491) Empty source files.
+
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ThreeToOneMux.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ThreeToOneMux.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ThreeToOneMux
+-- Compiling architecture Behavioral of ThreeToOneMux
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ProgramCounter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ProgramCounter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PROGRAM_COUNTER
+-- Compiling architecture Behavioral of PROGRAM_COUNTER
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/Test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/Test.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sub_module
+-- Compiling architecture Behavioral of sub_module
+-- Compiling entity top_module
+-- Compiling architecture Behavioral of top_module
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/TestBench.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/TestBench.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPS_TB
+-- Compiling architecture tb of MIPS_TB
+-- Loading entity MIPS
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/InstructionMem.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/InstructionMem.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity INSTRUCTION_MEMORY
+-- Compiling architecture Behavioral of INSTRUCTION_MEMORY
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/ForwardingUnit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/ForwardingUnit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ForwardingUnit
+-- Compiling architecture Behavioral of ForwardingUnit
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/MEMToWB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/MEMToWB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MEMToWB
+-- Compiling architecture Behavioral of MemToWB
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/IDToEX.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/IDToEX.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity IDToEX
+-- Compiling architecture Behavioral of IDToEX
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/RegisterFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/RegisterFile.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity REGISTER_FILE
+-- Compiling architecture Behavioral of REGISTER_FILE
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/EXToMEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/EXToMEM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity EXToMEM
+-- Compiling architecture Behavioral of EXToMEM
+
+} {} {}} {C:/Users/aronb/OneDrive/Com Architecture/Project/IFToID.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aronb/OneDrive/Com Architecture/Project/IFToID.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity IFToID
+-- Compiling architecture Behavioral of IFToID
+
+} {} {}}
